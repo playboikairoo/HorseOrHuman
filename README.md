@@ -2,15 +2,15 @@
 
 Welcome to the Horse or Human Classifier project! This repository contains code for a deep learning model that classifies whether a given image depicts a horse or a human.
 
-## Overview
+##Overview
 
 For this assignment, I tried my best to get a decent accuracy without using a pre-trained model. 
 
-## Accuracy
+# Accuracy
 
 The highest accuracy achieved was 88% without using a pre-trained model.
 
-## To be improved
+# To be improved
 
 Working on further projects, i learned more about computer vision, i believe with more effort put in, i can get an even better accuracy. 
 
